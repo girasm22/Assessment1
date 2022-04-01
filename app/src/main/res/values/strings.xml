@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Limas Segi Empat</string>
+    <string name="limas_segi_empat">Limas Segi Empat</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="panjang_invalid">Panjang tidak boleh kosong</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong</string>
+    <string name="hasil_x">%1$.2f</string>
+</resources>
